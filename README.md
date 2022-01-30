@@ -8,4 +8,4 @@ Sesión de github.
 
 ### Insertaremos una imagen
 
-![gatos]
+![gats](img/gatos.png)
