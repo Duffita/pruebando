@@ -8,3 +8,4 @@ Sesión de github.
 
 ### Insertaremos una imagen
 
+![visualsc] (img/Screenshot from 2022-01-23 19-26-24.png)
