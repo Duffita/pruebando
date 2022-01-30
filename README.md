@@ -3,4 +3,4 @@ mi introduccion a github
 
 ### Probando el github
 
-**Google Developer Student Pack**
+**Google Developer Student Clubs**
